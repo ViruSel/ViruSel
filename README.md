@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexandru Moldovan, a.k.a. @ViruSel
+- 👋 Hi, I’m Alex Moldovan, a.k.a. @ViruSel
 - 👀 I’m interested in programming all sorts of things
 - 🌱 I’m currently learning Unity
 - 📫 How to reach me: alex.moldo.serban@gmail.com
