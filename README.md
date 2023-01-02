@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alexandru Moldovan, a.k.a. @ViruSel
 - 👀 I’m interested in programming all sorts of things
 - 🌱 I’m currently learning Unity
-- 💞️ I’m not looking to collaborate yet
 - 📫 How to reach me: alex.moldo.serban@gmail.com
 
 <!---
